@@ -1,3 +1,3 @@
 # Veterinaria
 Esta página es donde puede ver la información de la veterinaria de Quito.
-https://cdn.euroinnova.edu.es/img/subidasEditor/alba%20(1)-1621849741.webp
+https://facultades.unab.cl/cienciasdelavida/wp-content/uploads/2022/02/AdobeStock_107432576-scaled.jpeg
