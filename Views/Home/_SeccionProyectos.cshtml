@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Proyecto>
+@if (Model is not null)
+{
+    <div class="text-center" style="scroll-padding-top: 6rem;">
+        <h1>Los servicio que ofrece la veterinaria</h1>
+        <p>Aqui puedes ver algunos de los servicios que se ofrece</p>
+    </div>
+    <partial name="_listadoProyectos" model="Model" />
+}
